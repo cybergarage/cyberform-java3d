@@ -1,0 +1,6 @@
+#!/Cygnus/B19/H-i386-cygwin32/bin/tcsh
+rm *.class
+javac -g -deprecation Message.java
+javac -g -deprecation Java3DSaver.java
+javac -g -deprecation CyberForm.java
+
